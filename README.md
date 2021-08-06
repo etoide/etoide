@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/xetoide" target="blank"><img src="https://img.shields.io/twitter/follow/xetoide?logo=twitter&style=for-the-badge" alt="xetoide" /></a> </p>
 
-- 🔭 I’m currently working on **Discord Bot**
+- 🔭 I’m currently working on **Discord Server Bot**
 
 - 🌱 I’m currently learning **Node.js**
 
